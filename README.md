@@ -24,3 +24,7 @@ Who maintains and contributes to the project
 I do not know what to add
 
 	These are some cool words.
+
+name - email - github username
+Tristen Calder - tbc73@nau.edu - TristenCalder 
+helped on this project that isnt useful
